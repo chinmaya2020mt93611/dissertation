@@ -12,8 +12,6 @@
 	<groupId>com.scalable</groupId>
 	<artifactId>assignment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	
-	
 	<name>assignment</name>
 	<description>Assignment for Scalablejava --version</description>
 	<properties>
