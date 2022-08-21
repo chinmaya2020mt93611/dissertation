@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	
-	<groupId>com.scalable</groupId>
-	<artifactId>assignment</artifactId>
+	<groupId>com.bits</groupId>
+	<artifactId>dissertation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>assignment</name>
-	<description>Assignment for Scalablejava --version</description>
+	<name>dissertation</name>
+	<description>Bits Dissertation</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
@@ -38,17 +38,6 @@
 		<dependency>
     		<groupId>org.springframework.boot</groupId>
     		<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-		
-		<dependency>
-			<groupId>org.postgresql</groupId>
-			<artifactId>postgresql</artifactId>
-			<scope>runtime</scope>
-		</dependency>
-		
-		<dependency>
-		    <groupId>org.springframework.boot</groupId>
-    		<artifactId>spring-boot-starter-jdbc</artifactId>
 		</dependency>
 	</dependencies>
 

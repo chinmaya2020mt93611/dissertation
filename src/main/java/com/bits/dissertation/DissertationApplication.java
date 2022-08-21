@@ -1,13 +1,13 @@
-package com.scalable.assignment;
+package com.bits.dissertation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AssignmentApplication {
+public class DissertationApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AssignmentApplication.class, args);
+		SpringApplication.run(DissertationApplication.class, args);
 	}
 
 }
