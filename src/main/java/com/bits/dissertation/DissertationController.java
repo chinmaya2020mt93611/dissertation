@@ -8,7 +8,7 @@ public class DissertationController {
 
 	@GetMapping("/getDetails")
 	public String index() {
-		return "Hello World";
+		return "Dissertation";
 	}
 
 }
