@@ -31,7 +31,7 @@
 		
 		<dependency>
     			<groupId>org.springframework</groupId>
-    		<artifactId>spring-web</artifactId>
+    			<artifactId>spring-web</artifactId>
     		<version>5.3.18</version>
 		</dependency>
 		
